@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Etec-Resumo.Android", "Etec-Resumo\Etec-Resumo.Android\Etec-Resumo.Android.csproj", "{42A4B751-BF6E-42AB-972B-46B30717012D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Etec-Resumo", "Etec-Resumo\Etec-Resumo\Etec-Resumo.csproj", "{286A3D41-1E9B-425F-9216-3C86CEBF6720}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42A4B751-BF6E-42AB-972B-46B30717012D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42A4B751-BF6E-42AB-972B-46B30717012D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42A4B751-BF6E-42AB-972B-46B30717012D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{42A4B751-BF6E-42AB-972B-46B30717012D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42A4B751-BF6E-42AB-972B-46B30717012D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42A4B751-BF6E-42AB-972B-46B30717012D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{286A3D41-1E9B-425F-9216-3C86CEBF6720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{286A3D41-1E9B-425F-9216-3C86CEBF6720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{286A3D41-1E9B-425F-9216-3C86CEBF6720}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{286A3D41-1E9B-425F-9216-3C86CEBF6720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{286A3D41-1E9B-425F-9216-3C86CEBF6720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{286A3D41-1E9B-425F-9216-3C86CEBF6720}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEABA5C0-23E4-46F6-B19B-BD511E9A2AB0}
+	EndGlobalSection
+EndGlobal
